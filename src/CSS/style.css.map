@@ -1,8 +1,9 @@
 {
     "version": 3,
-    "mappings": "AAAA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,GAAG;CACd",
+    "mappings": "",
     "sources": [
-        "style.scss"
+        "style.scss",
+        "_sidebar.scss"
     ],
     "names": [],
     "file": "style.css"

@@ -1,1 +1,15 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+.app {
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: #dadbd3;
+}
+
+.app__body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #ededed;
+}
+/*# sourceMappingURL=style.css.map */

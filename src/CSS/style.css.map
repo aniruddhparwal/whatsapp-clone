@@ -1,9 +1,11 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AGAA,AAAA,IAAI,CAAA;EACA,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAC,OAAO;CAC3B;;AAED,AAAA,UAAU,CAAA;EACN,OAAO,EAAE,IAAI;EACb,gBAAgB,EAAE,OAAO;CAC5B",
     "sources": [
         "style.scss",
-        "_sidebar.scss"
+        "_sidebar.scss",
+        "_chat.scss",
+        "_app.scss"
     ],
     "names": [],
     "file": "style.css"

@@ -1,3 +1,36 @@
+.sidebar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 0.35;
+      -ms-flex: 0.35;
+          flex: 0.35;
+}
+
+.sidebar__header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 20px;
+  border-right: 1px solid lightgray;
+}
+
+.chat {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-flex: 0.65;
+      -ms-flex: 0.65;
+          flex: 0.65;
+}
+
 .app {
   display: -ms-grid;
   display: grid;
@@ -11,5 +44,8 @@
   display: -ms-flexbox;
   display: flex;
   background-color: #ededed;
+  margin-top: -50px;
+  height: 90vh;
+  width: 90vw;
 }
 /*# sourceMappingURL=style.css.map */
